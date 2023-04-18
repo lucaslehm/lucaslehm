@@ -1,16 +1,16 @@
-### Hi there 👋
+### Opa! Seja bem-vindo(a)! Eu sou o Lucas Lehm! 👋
 
-<!--
-**lucaslehm/lucaslehm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<sub>Estudante em Desenvolvimento Front-end | Designer Gráfico | 20y</sub>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estou a procura de oportunidades no mercado de tecnologia!
+- 🌱 Atualmente estou estudando JavaScript
+- ☕ Sempre aceito um bom café!
+- 😄 Pronomes ele/dele
+
+<hr>
+
+<img src="https://cdn.discordapp.com/attachments/957443033882824736/1097934107532607529/317755_badge_html_html5_achievement_award_icon.png" alt="html5 logo"> <img src="https://cdn.discordapp.com/attachments/957443033882824736/1097934406867497091/317756_badge_css_css3_achievement_award_icon.png" alt="css3 logo"> <img src="https://cdn.discordapp.com/attachments/957443033882824736/1097934837991612416/4373213_js_logo_logos_icon.png" alt="js logo">
+
+<hr>
