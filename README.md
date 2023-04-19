@@ -16,6 +16,7 @@
 <hr>
 
 <div>
-  <a href="https://www.behance.net/lucaslehmm_" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt=""></a>
-
+  <a href="https://www.behance.net/lucaslehmm_" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="behance"></a>
+  <a href="https://www.instagram.com/lehm.dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
+  <a href="https://www.linkedin.com/in/lucaslehmm/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 </div>
