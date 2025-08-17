@@ -10,8 +10,8 @@
 - JavaScript
 - React.js
 - Git
-- Node.js (básico)
-- Banco de Dados (PostgreSQL e MongoDB)
+- Node.js
+- Banco de Dados 
 
 ### 📈 Em constante evolução:
 Atualmente, estou desenvolvendo projetos pessoais para aprimorar minhas habilidades. Veja alguns deles abaixo! 👇
