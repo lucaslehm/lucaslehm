@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou o Lucas
 
-🎓 Estudante de Tecnologia da Informação (2º semestre)
-💻 Focado em Desenvolvimento Front-End
+🎓 Estudante de Ciência da Computação (3º semestre)
+💻 Focado em Desenvolvimento FullStack
 🚀 Em busca da minha primeira oportunidade como Desenvolvedor Júnior
 
 ### 🛠️ Tecnologias que estou aprendendo:
