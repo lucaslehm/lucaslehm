@@ -11,7 +11,8 @@
 - React.js
 - Git
 - Node.js
-- Banco de Dados 
+- Banco de Dados
+- TypeScript
 
 ### 📈 Em constante evolução:
 Atualmente, estou desenvolvendo projetos pessoais para aprimorar minhas habilidades. Veja alguns deles abaixo! 👇
