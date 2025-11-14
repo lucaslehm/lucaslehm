@@ -4,4 +4,4 @@
 💻 Focado em Desenvolvimento Web
 🚀 Em busca da minha primeira oportunidade como Desenvolvedor Júnior
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,react,html,css,php,mysql)](https://skillicons.dev)
